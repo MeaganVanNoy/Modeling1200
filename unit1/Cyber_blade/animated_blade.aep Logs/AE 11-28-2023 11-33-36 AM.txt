@@ -1,0 +1,22 @@
+Adobe After Effects v23.3 Windows 64 render log for project “animated_blade.aep”
+
+Rendering started on 11/28/2023 at 11:33:36 AM
+
+  11/28/2023 11:33:36 AM: Starting composition “maincomp”.
+
+  Output To: C:\Users\meggy\school\GIT\Modeling1200\unit1\Cyber_blade\Blade.mov    11/28/2023 11:33:41 AM: Finished composition “maincomp”.
+
+
+  11/28/2023 11:33:41 AM: Starting composition “diffuse”.
+
+  Output To: C:\Users\meggy\school\GIT\Modeling1200\unit1\Cyber_blade\diffuse\blade.mp4    11/28/2023 11:33:47 AM: Finished composition “diffuse”.
+
+
+  11/28/2023 11:33:47 AM: Starting composition “maincomp”.
+
+  Output To: C:\Users\meggy\school\GIT\Modeling1200\unit1\Cyber_blade\maincomp.mp4    11/28/2023 11:33:51 AM: Finished composition “maincomp”.
+
+
+  Total Time Elapsed: 15 Seconds
+Log closed on 11/28/2023 at 11:33:51 AM
+
